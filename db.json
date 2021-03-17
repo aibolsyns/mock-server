@@ -1,0 +1,115 @@
+{
+    "users":[
+        {
+            "email":"email1@gmail.com",
+            "username":"user1",
+            "password":"password123"
+        },
+        {
+            "email":"email2@gmail.com",
+            "username":"user2",
+            "password":"password123"
+        },
+        {
+            "email":"email3@gmail.com",
+            "username":"user3",
+            "password":"password123"
+        },
+        {
+            "email":"email4@gmail.com",
+            "username":"user4",
+            "password":"password123"
+        },
+        {
+            "email":"email5@gmail.com",
+            "username":"user5",
+            "password":"password123"
+        }
+    ],
+    "planes":[
+        {
+            "model":"A380 1:400",
+            "image":"https://www.emirates.store/media/6098/10089625_z.jpg",
+            "price":23043
+        },
+        {
+            "model":"A380 1:400",
+            "image":"https://www.emirates.store/media/7765/10100652_z.jpg",
+            "price":25976
+        },
+        {
+            "model":"Boeing 777-300ER 1:400",
+            "image":"https://www.emirates.store/media/8783/10100654_z.jpg",
+            "price":23043
+        },
+        {
+            "model":"A380 1:200 scale Expo 2020",
+            "image":"https://www.emirates.store/media/7571/10098426_z.jpg",
+            "price":28490
+        },
+        {
+            "model":"Boeing 777-300ER 1:400 scale Expo",
+            "image":"https://www.emirates.store/media/7767/10100653_z.jpg",
+            "price":28490
+        }
+    ],
+    "cars":[
+        {
+            "model":"2021 Aston Martin DB11",
+            "image":"https://www.cstatic-images.com/car-pictures/xl/usc80anc173a021001.png",
+            "price":102647993
+        },
+        {
+            "model":"2021 Aston Martin DBS",
+            "image":"https://www.cstatic-images.com/car-pictures/xl/usc90anc092a021001.png",
+            "price":132394962
+        },
+        {
+            "model":"2021 Aston Martin DBX",
+            "image":"https://www.cstatic-images.com/car-pictures/xl/usd10ans011a021001.png",
+            "price":73738966
+        },
+        {
+            "model":"2021 Alfa Romeo Stelvio",
+            "image":"https://www.cstatic-images.com/car-pictures/xl/usc80als011a021001.png",
+            "price":17492055
+        },
+        {
+            "model":"2021 Tesla Model S",
+            "image":"https://www.cstatic-images.com/car-pictures/xl/usc70tsc024b021001.png",
+            "price":33513522
+        }
+    ],
+    "bikes":[
+        {
+            "model":"Bajaj Pulsar 150",
+            "image":"https://images.carandbike.com/bike-images/colors/bajaj/pulsar-150/bajaj-pulsar-150-neon-red.webp?v=39",
+            "price":92627,
+            "location":"New Delphi"
+        },
+        {
+            "model":"Kawasaki Ninja H2R",
+            "image":"https://images.carandbike.com/bike-images/large/kawasaki/ninja-h2r/kawasaki-ninja-h2r.webp?v=4",
+            "price":7580000,
+            "location":"New Delphi"
+        },
+        {
+            "modal": "JAWA Perak",
+            "image": "https://images.carandbike.com/bike-images/colors/jawa/perak/jawa-perak-charcoal-black.webp?v=7",
+            "price": 189000,
+            "location":"New Delphi"
+        },
+        {
+            "modal": "Hero Passion Pro i3S",
+            "image": "https://images.carandbike.com/bike-images/colors/hero/passion-pro-i3s/hero-passion-pro-i3s-sports-red.webp?v=13",
+            "price": 64990,
+            "location":"New Delphi"
+        },
+        {
+            "modal": "Yamaha FZ S V3.0 FI",
+            "image": "https://images.carandbike.com/bike-images/colors/yamaha/fz-s-v30-fi/yamaha-fz-s-v30-fi-darknight.webp?v=17",
+            "price": 102700,
+            "location":"New Delphi"
+        }
+    ]
+}
