@@ -26,90 +26,85 @@
             "password":"password123"
         }
     ],
-    "planes":[
+    "face":[
         {
-            "model":"A380 1:400",
-            "image":"https://www.emirates.store/media/6098/10089625_z.jpg",
+            "model":"Foundation",
+            "image":"https://kosmetista.ru/uploads/images/16/57/83/2021/02/01/9d8b53_lbox.jpg",
             "price":23043
         },
         {
-            "model":"A380 1:400",
+            "model":"BB & CC Creams",
             "image":"https://www.emirates.store/media/7765/10100652_z.jpg",
             "price":25976
         },
         {
-            "model":"Boeing 777-300ER 1:400",
+            "model":"Concealer",
             "image":"https://www.emirates.store/media/8783/10100654_z.jpg",
             "price":23043
         },
         {
-            "model":"A380 1:200 scale Expo 2020",
+            "model":"Face Primer",
             "image":"https://www.emirates.store/media/7571/10098426_z.jpg",
             "price":28490
         },
         {
-            "model":"Boeing 777-300ER 1:400 scale Expo",
+            "model":"Highlighter",
             "image":"https://www.emirates.store/media/7767/10100653_z.jpg",
             "price":28490
         }
     ],
-    "cars":[
+    "eye":[
         {
-            "model":"2021 Aston Martin DB11",
+            "model":"Eye Palettes",
             "image":"https://www.cstatic-images.com/car-pictures/xl/usc80anc173a021001.png",
             "price":102647993
         },
         {
-            "model":"2021 Aston Martin DBS",
+            "model":"Mascara",
             "image":"https://www.cstatic-images.com/car-pictures/xl/usc90anc092a021001.png",
             "price":132394962
         },
         {
-            "model":"2021 Aston Martin DBX",
+            "model":"Eyeliner",
             "image":"https://www.cstatic-images.com/car-pictures/xl/usd10ans011a021001.png",
             "price":73738966
         },
         {
-            "model":"2021 Alfa Romeo Stelvio",
+            "model":"Eyebrow",
             "image":"https://www.cstatic-images.com/car-pictures/xl/usc80als011a021001.png",
             "price":17492055
         },
         {
-            "model":"2021 Tesla Model S",
+            "model":"Eyeshadow",
             "image":"https://www.cstatic-images.com/car-pictures/xl/usc70tsc024b021001.png",
             "price":33513522
         }
     ],
-    "bikes":[
+    "lip":[
         {
-            "model":"Bajaj Pulsar 150",
+            "model":"Lipstick",
             "image":"https://images.carandbike.com/bike-images/colors/bajaj/pulsar-150/bajaj-pulsar-150-neon-red.webp?v=39",
-            "price":92627,
-            "location":"New Delphi"
+            "price":92627
         },
         {
-            "model":"Kawasaki Ninja H2R",
+            "model":"Lip Gloss",
             "image":"https://images.carandbike.com/bike-images/large/kawasaki/ninja-h2r/kawasaki-ninja-h2r.webp?v=4",
-            "price":7580000,
-            "location":"New Delphi"
+            "price":7580000
         },
         {
-            "modal": "JAWA Perak",
+            "model": "Liquid Lipstick",
             "image": "https://images.carandbike.com/bike-images/colors/jawa/perak/jawa-perak-charcoal-black.webp?v=7",
-            "price": 189000,
-            "location":"New Delphi"
+            "price": 189000
         },
         {
-            "modal": "Hero Passion Pro i3S",
+            "model": "Lip Stain",
             "image": "https://images.carandbike.com/bike-images/colors/hero/passion-pro-i3s/hero-passion-pro-i3s-sports-red.webp?v=13",
-            "price": 64990,
-            "location":"New Delphi"
+            "price": 64990
         },
         {
-            "modal": "Yamaha FZ S V3.0 FI",
+            "model": "Lip Liner",
             "image": "https://images.carandbike.com/bike-images/colors/yamaha/fz-s-v30-fi/yamaha-fz-s-v30-fi-darknight.webp?v=17",
-            "price": 102700,
-            "location":"New Delphi"
+            "price": 102700
         }
     ]
 }
