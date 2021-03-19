@@ -28,66 +28,66 @@
     ],
     "eye":[
         {
-            "model":"Foundation",
+            "model":"Eye Palettes",
             "image1":"https://www.douglas.lv/cache/images/5459d73287e464ab9547ad09ea6b437a.jpg",
             "image2": "https://catalog.21buttons.com/7e61b0c20861bcf73acefee46532c1576b6e7314.smedium.jpg",
-            "price":23043
+            "price":23000
         },
         {
-            "model":"BB & CC Creams",
+            "model":"Mascara",
             "image1":"https://catalog.21buttons.com/5e422572865c152ca9903b206f6cf81d2a5d15ef.smedium.jpg",
             "image2":"https://www.sephora.com/productimages/sku/s1956176-main-zoom.jpg?imwidth=600",
-            "price":25976
+            "price":25500
         },
         {
-            "model":"Concealer",
+            "model":"Eyeliner",
             "image1":"https://st2.myideasoft.com/idea/ce/79/myassets/products/557/kalem-eyeliner_min.JPG?revision=1549624209",
             "image2":"https://www.sephora.com/productimages/sku/s2282606-main-zoom.jpg?imwidth=465",
-            "price":23043
+            "price":21000
         },
         {
-            "model":"Face Primer",
+            "model":"Eyebrow",
             "image1":"https://p.extrabux.top/1_1/20200403/1585898522687646.png",
             "image2":"https://luxedition.ru/upload/images-info/0ef/0ef1b0ea813503c0bcc4041457309cc4.jpg",
-            "price":23043
+            "price":12000
         },
         {
-            "model":"Highlighter",
+            "model":"Eyeshadow",
             "image1":"https://spb.likenilook.ru/img-catalog/255/c/9/1/cat_255-c001200004.jpg",
             "image2":"https://www.sephora.com/productimages/sku/s2378313-main-hero.jpg",
-            "price":23043
+            "price":16000
         }
     ],
     "face":[
         {
-            "model":"Eye Palettes",
+            "model":"Foundation",
             "image1":"https://i.tmgrup.com.tr/vogue/img/sq/20-11/29/nars-natural-radiant-longwear-foundation.jpg",
             "image2":"https://a.cdnsbn.com/images/products/l/24849780102-1.jpg",
-            "price":102647993
+            "price":27000
         },
         {
-            "model":"Mascara",
+            "model":"BB & CC Creams",
             "image1":"https://www.sephora.com/productimages/sku/s1422617-main-Lhero.jpg",
             "image2":"https://monolith1.izrukvruki.ru/img/catalog/i3/bb/db/d8ff8c079-845x845-759876526-orig.jpg",
-            "price":132394962
+            "price":8000
         },
         {
-            "model":"Eyeliner",
+            "model":"Concealer ",
             "image1":"https://cdn.shopify.com/s/files/1/0449/4455/6182/products/ScreenShot2020-07-29at5.03.55PM_grande.png?v=1602121733",
             "image2":"https://www.sephora.com/productimages/sku/s2172310-main-hero-300.jpg?pb=2020-03-allure-best-2018",
-            "price":73738966
+            "price":13000
         },
         {
-            "model":"Eyebrow",
+            "model":"Face Primer ",
             "image1":"https://dukanaaa.com/wp-content/uploads/2020/06/zb_p_34_2400x-300x300.jpg",
             "image2":"https://dukanaaa.com/wp-content/uploads/2020/06/zb_p_34_2400x-300x300.jpg",
-            "price":17492055
+            "price":14000
         },
         {
-            "model":"Eyeshadow",
+            "model":"Highlighter ",
             "image1":"https://www.sephora.com/productimages/sku/s1017920-main-Lhero.jpg",
             "image2":"https://barb.ua/uploads/2020_/12/15/519531/c/gallery-preview.jpg",
-            "price":33513522
+            "price":24700
         }
     ],
     "lip":[
@@ -95,31 +95,31 @@
             "model":"Lipstick",
             "image1":"https://1ya.ru/media/cache/show_thumb/https---yslbeauty.com.ru/pub/media/catalog/product/cache/8471f7bdbf17f6c22667c56281d644fb/3/6/3614272559592-main.jpg",
             "image2":"https://www.sephora.com/productimages/sku/s2419620-main-zoom.jpg?imwidth=324",
-            "price":92627
+            "price":18900
         },
         {
             "model":"Lip Gloss",
             "image1":"https://www.sephora.com/productimages/sku/s1596451-main-zoom.jpg?imwidth=162",
             "image2":"https://www.sephora.com/productimages/sku/s1296060-main-zoom.jpg?pb=2020-03-sephora-value-2019",
-            "price":7580000
+            "price":19400
         },
         {
             "model": "Liquid Lipstick",
             "image1":"https://www.sephora.com/productimages/sku/s1965524-main-zoom.jpg?pb=allure-best-2020&imwidth=324",
             "image2":"https://www.gleek.gr/101455-thickbox_default/lancome-l-absolu-gloss-matte.jpg",
-            "price": 189000
+            "price": 17500
         },
         {
             "model": "Lip Stain",
             "image2": "https://devochki-help.ru/wp-content/uploads/9329572.jpg",
             "image1": "https://sony-ericsson.ru/imgcatalog/3422/3421188/blesk_dlya_gyb_christian_dior_1.jpg",
-            "price": 64990
+            "price": 16800
         },
         {
             "model": "Lip Liner",
             "image1": "https://i.pinimg.com/736x/dc/d4/d8/dcd4d86cbae029e5cb291b41c1af3c6a.jpg",
             "image2": "https://beauty.nohoho.ru/sites/beauty.nohoho.ru/files/2881c8cf3c1c11eaacb7000c2954c772_f0e3496969ee11ea8dff000c2954c772.jpg",
-            "price": 102700
+            "price": 18900
         }
     ]
 }
